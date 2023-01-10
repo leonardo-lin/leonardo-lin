@@ -1,6 +1,8 @@
 ### Hi there 👋
+### My name is leonardo. you can call me leo 👋
 
 <!--
+
 **leonardo-lin/leonardo-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/67550587/211472917-d7804aa6-a860-429b-be41-6c448b34c9fb.png)![image](https://user-images.githubusercontent.com/67550587/211472992-269ad003-7b99-472a-b0ce-f50607ce2311.png)
+
+
 
 
 
