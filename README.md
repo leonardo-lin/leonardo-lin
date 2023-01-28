@@ -20,7 +20,7 @@
 
 - Natural Language Processing (NLP)
 - laravel (a full-stack structure based on MVC)
-- making a lot of friends :man_and_woman_holding_hands: 
+- making a lot of friends :man::woman:
 
 ---
 
