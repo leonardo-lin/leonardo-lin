@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is leonardo. you can call me leo 👋
-<img src="minnion.gif" width="60">
+<img src="minnion.gif" width="120">
 :gun: 
 <!--
 
