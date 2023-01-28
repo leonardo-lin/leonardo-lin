@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is leonardo. you can call me leo 👋
-
+:gun: 
 <!--
 
 **leonardo-lin/leonardo-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
