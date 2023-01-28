@@ -29,6 +29,7 @@
 - Internet IP lookup algorithm for router 
 - MMSK package arrival simulation project and mathematic anaylysis
 - Steganography(圖像隱碼術)
+- chinese idf dictionary
 
 :school: I have done in university...
 
