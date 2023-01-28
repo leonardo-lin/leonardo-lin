@@ -33,7 +33,7 @@
 :school: I have done in university...
 
 - Game streaming just like Nvidia Geforce NOW (with [wei-coding](https://github.com/wei-coding))
-- Arduino light-stick dance (I'm choreographer and help design the arduino code)
+- Arduino light-stick dance (I'm the choreographer and help design the arduino code)
     - here's the [show](https://drive.google.com/file/d/18h447xkdNfy-bYEVdwh9xyHIVTKvBEoJ/view?usp=sharing)
 
 ---
@@ -50,23 +50,6 @@
 - looking for somewhere cool with my :motor_scooter: 
 - reading at bookstore :book: 
 - swimming(except winter:cold_sweat:) 
-
-<!--
-**leonardo-lin/leonardo-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 
 
