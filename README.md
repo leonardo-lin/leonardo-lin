@@ -20,8 +20,8 @@
 
 - Natural Language Processing (NLP)
 - laravel (a full-stack structure based on MVC)
-- making a lot of friends :man::woman:
-
+- making a lot of friends (´>∀)人(´・ω・)ﾉヽ(・ε・*)人(-д-`)
+ 
 ---
 
 :book: I have done in graduated school...
