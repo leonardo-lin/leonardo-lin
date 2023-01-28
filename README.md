@@ -39,7 +39,7 @@
 ---
 
 :computer: I can code
-<p><a> <img src="Python-Logo.png" width="120"><img src="Java_logo.png" width="120"><img src="C_lan-logo.png" width="120"></a>
+<p><a> <img src="Python-Logo.png" width="60"><img src="Java_logo.png" width="60"><img src="C_lan-logo.png" width="60"></a>
 </p>
 
 ---
