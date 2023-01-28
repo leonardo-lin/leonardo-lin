@@ -35,7 +35,7 @@
 
 - [Game streaming](https://github.com/wei-coding/NCHU-Game-Streaming) just like Nvidia Geforce NOW (with [wei-coding](https://github.com/wei-coding))
 - Arduino light-stick dance (I'm the choreographer and help design the arduino code)
-    - here's the [show](https://drive.google.com/file/d/18h447xkdNfy-bYEVdwh9xyHIVTKvBEoJ/view?usp=sharing)
+    - click [here](https://drive.google.com/file/d/18h447xkdNfy-bYEVdwh9xyHIVTKvBEoJ/view?usp=sharing) to enjoy the show
 
 ---
 
