@@ -47,7 +47,7 @@
 :sailboat: In my free time I...
 
 - jogging or taking a walk after work
-- looking for something cool with my :motor_scooter: 
+- looking for somewhere cool with my :motor_scooter: 
 - reading at bookstore :book: 
 - swimming(except winter:cold_sweat:) 
 
