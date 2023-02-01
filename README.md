@@ -26,7 +26,7 @@
 
 :book: I have done in graduated school...
 
-- Internet IP lookup algorithm for router 
+- [Internet IP lookup algorithm for router](https://github.com/leonardo-lin/ip-lookup_algorithm)
 - MMSK package arrival simulation project and mathematic anaylysis
 - Steganography(圖像隱碼術)
 - [chinese idf dictionary](https://github.com/leonardo-lin/idf_for_chinese)
