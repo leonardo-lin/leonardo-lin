@@ -30,6 +30,7 @@
 - MMSK package arrival simulation project and mathematic anaylysis
 - Steganography(圖像隱碼術)
 - [chinese idf dictionary](https://github.com/leonardo-lin/idf_for_chinese)
+- parallel process(hadoop/spark)
 
 :school: I have done in university...
 
