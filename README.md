@@ -31,7 +31,7 @@
 - Steganography(圖像隱碼術)
 - [chinese idf dictionary](https://github.com/leonardo-lin/idf_for_chinese)
 - parallel process(hadoop/spark)
-- 
+- idf library
 
 :school: I have done in university...
 
